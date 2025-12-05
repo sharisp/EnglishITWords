@@ -1,0 +1,14 @@
+constant n常量
+variable n 变量
+dictionary n字典
+integer n整数，整型  / ˈɪntɪdʒə(r) /
+keyword n关键字
+static adj静态的 / ˈstætɪk /
+class n 类
+subclass n 子类
+superclass n父类
+polymorphism n多态   /ˌpɒlɪˈmɔːfɪzəm/
+inherit v继承 / ɪnˈherɪt /
+inheritance n继承/ ɪnˈherɪtəns /
+interface n接口
+structure n结构
