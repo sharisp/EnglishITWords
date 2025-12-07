@@ -28,4 +28,8 @@ implement v实现
 implementation n实现
 expression n表达式
 scope n 范围 区域
+initial adj 最初的
+initializer n 初始化方法
+initialization n初始化
+
 
