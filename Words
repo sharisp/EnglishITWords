@@ -31,5 +31,10 @@ scope n 范围 区域
 initial adj 最初的
 initializer n 初始化方法
 initialization n初始化
+deinitializer n析构方法
+item n 项目; 条，条款; 一则
+encapsulate v封装
+protocol n 协议  /ˈprəʊ.tə.kɒl/
+
 
 
