@@ -40,6 +40,14 @@ delegation n 代理
 extend v 拓展
 extension n拓展
 external adj 外部的
+conform v 遵守，遵照，遵循
+execute v 执行
+iterate v迭代
+loop n 循环
+downcast v向下转型
+unwrap v 拆箱
+force-unwrap v 强制拆箱
+
 
 
 
