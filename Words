@@ -47,6 +47,8 @@ loop n 循环
 downcast v向下转型
 unwrap v 拆箱
 force-unwrap v 强制拆箱
+statement n声明
+optional adj 可选的
 
 
 
