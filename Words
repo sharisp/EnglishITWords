@@ -54,6 +54,8 @@ define v 定义
 definition n定义
 contain v 包含
 query v查询
+particular adj 特定的
+type casting 类型转换
 
 
 
