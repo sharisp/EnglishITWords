@@ -1,1 +1,1 @@
-IT English common words
+IT English common words and symbols
