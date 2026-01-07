@@ -1,0 +1,7 @@
++　 plus　加号；正号
+-　 minus　减号；负号
+±　plus or minus　正负号
+×　is multiplied by　乘号
+÷　is divided by　除号
+＝　is equal to　等于号
+≠　is not equal to　不等于号
