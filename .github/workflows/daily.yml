@@ -21,8 +21,8 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "sharisp"
+          git config user.email "wthsir@gmail.com"
           git add symbols used_words.txt
           git commit -m "feat: add daily word"
           git push
