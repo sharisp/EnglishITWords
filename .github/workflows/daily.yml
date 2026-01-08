@@ -2,7 +2,7 @@ name: Daily Word (C#)
 
 on:
   schedule:
-    - cron: "27 1 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -24,5 +24,7 @@ jobs:
           git config user.name "sharisp"
           git config user.email "wthsir@gmail.com"
           git add symbols used_words.txt
-          git commit -m "feat: add daily word"
+          git diff --cached --quiet || git commit -m "feat: add daily word"
           git push
+
+

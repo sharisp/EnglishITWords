@@ -6,6 +6,14 @@ namespace NewWordsApp
     {
         static void Main()
         {
+            var tz = TimeZoneInfo.FindSystemTimeZoneById("Australia/Sydney");
+            var now = TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, tz);
+
+            if (now.Hour != 13)
+            {
+                Console.WriteLine("不是确定的时间");
+                return;
+            }
             var wordsFile = "words.txt";
             var usedFile = "used_words.txt";
             var mdFile = "symbols";
@@ -16,6 +24,7 @@ namespace NewWordsApp
                 : new HashSet<string>();
 
             var available = allWords.Except(usedWords).ToList();
+
 
             if (!available.Any())
             {
