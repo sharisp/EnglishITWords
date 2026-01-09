@@ -9,7 +9,7 @@ namespace NewWordsApp
             var tz = TimeZoneInfo.FindSystemTimeZoneById("Australia/Sydney");
             var now = TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, tz);
 
-            if (now.Hour != 13)
+            if (now.Hour != 19&&now.Hour != 20)
             {
                 Console.WriteLine("不是确定的时间");
                 return;
