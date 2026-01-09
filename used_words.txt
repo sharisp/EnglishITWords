@@ -6,3 +6,4 @@
 ＝　is equal to　等于号
 ≠　is not equal to　不等于号≡　is equivalent to　全等于号
 ≠　is not equal to　不等于号
+≡　is equivalent to　全等于号
