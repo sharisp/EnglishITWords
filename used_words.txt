@@ -23,3 +23,4 @@
 ∵　since; because　因为
 ∴　hence　所以
 ∷　equals, as (proportion)　等于，成比例
+∠　angle　角
