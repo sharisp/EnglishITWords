@@ -66,3 +66,4 @@
 ...　dots/ ellipsis　省略号
 "　single quotation marks 单引号
 ""　double quotation marks 双引号
+‖ parallel 双线号
