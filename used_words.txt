@@ -32,3 +32,4 @@
 ⊥　perpendicular to　垂直于
 ∪　union of　并，合集
 
+∩　intersection of 交，通集
