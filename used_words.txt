@@ -42,3 +42,4 @@
 }　close brace, close curly　右花括号
 (　open parenthesis, open paren　左圆括号
 )　close parenthesis, close paren　右圆括号
+() brakets/ parentheses　括号
