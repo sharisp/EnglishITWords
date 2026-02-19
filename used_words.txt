@@ -43,3 +43,4 @@
 (　open parenthesis, open paren　左圆括号
 )　close parenthesis, close paren　右圆括号
 () brakets/ parentheses　括号
+[　open bracket 左方括号
