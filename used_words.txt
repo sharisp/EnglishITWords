@@ -50,3 +50,4 @@
 |　vertical bar, vertical virgule　竖线
 &amp;　ampersand, and, reference, ref　和，引用
 *　asterisk, multiply, star, pointer　星号，乘号，星，指针
+/　slash, divide, oblique 斜线，斜杠，除号
