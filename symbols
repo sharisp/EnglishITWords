@@ -53,3 +53,4 @@
 /　slash, divide, oblique 斜线，斜杠，除号
 //　slash-slash, comment 双斜线，注释符
 #　pound　井号
+\　backslash, sometimes escape　反斜线转义符，有时表示转义符或续行符
