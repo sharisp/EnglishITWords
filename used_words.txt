@@ -56,3 +56,4 @@
 \　backslash, sometimes escape　反斜线转义符，有时表示转义符或续行符
 ~　tilde　波浪符
 .　full stop　句号
+,　comma　逗号
