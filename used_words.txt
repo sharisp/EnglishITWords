@@ -58,3 +58,4 @@
 .　full stop　句号
 ,　comma　逗号
 :　colon　冒号
+;　semicolon　分号
