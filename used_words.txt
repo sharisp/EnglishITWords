@@ -62,3 +62,4 @@
 ?　question mark　问号
 !　exclamation mark (英式英语) exclamation point (美式英语)
 '　apostrophe　撇号
+-　hyphen　连字号 ˈhaɪf(ə)n]
