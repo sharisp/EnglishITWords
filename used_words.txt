@@ -29,3 +29,4 @@
 ○　circumference　圆周
 π　pi 圆周率
 △　triangle　三角形
+⊥　perpendicular to　垂直于
