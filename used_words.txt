@@ -35,3 +35,4 @@
 ∫　the integral of …的积分
 ∑　(sigma) summation of　总和
 °　degree　度
+′　minute　分
