@@ -37,3 +37,4 @@
 °　degree　度
 ′　minute　分
 ″　second　秒
+℃　Celsius system　摄氏度</P><P>{　open brace, open curly　左花括号
