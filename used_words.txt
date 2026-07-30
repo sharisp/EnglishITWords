@@ -48,3 +48,4 @@
 .　period, dot　句号，点
 |　vertical bar, vertical virgule　竖线
 &amp;　ampersand, and, reference, ref　和，引用
+*　asterisk, multiply, star, pointer　星号，乘号，星，指针
